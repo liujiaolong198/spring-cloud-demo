@@ -1,0 +1,19 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: client-consumer
+eureka:
+  instance:
+    #是否使用IP地址进行访问
+    prefer-ip-address: true
+    #实例显示名
+    instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}:@project:version@
+    # 租赁更新时间间隔，即 每隔2秒向注册中心发送一个确认信息
+    #lease-renewal-interval-in-seconds: 2
+    # 租赁到期持续时间，即 如果6秒还没有收到信息，就在eureka中删除此服务
+    #lease-expiration-duration-in-seconds: 6
+  client:
+    # 注册到Eureka服务端的地址,集群用逗号分隔
+    service-url:
+      defaultZone: http://localhost:8761/eureka/

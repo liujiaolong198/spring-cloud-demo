@@ -1,0 +1,21 @@
+server:
+  port: 8761
+spring:
+  application:
+    name: server
+eureka:
+  instance:
+    hostname: 127.0.0.1
+  client:
+    # 是否将自己注册到EurekaServer,默认为true,由于当前应用就是EurekaServer,故而设为false
+    register-with-eureka: false
+    # 是否从EurekaServer获取注册信息,默认为true,因为这是一个单点的EurekaServer,不需要同步其他的
+    fetch-registry: false
+    # ָ指定注册中心URL,多节点用 , 分隔
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+  server:
+    # 是否开启注册中心的保护机制
+    enable-self-preservation: true
+    # 清理不可用服务的间隔时间，默认是 60* 1000 （60秒）
+    # eviction-interval-timer-in-ms: 2000

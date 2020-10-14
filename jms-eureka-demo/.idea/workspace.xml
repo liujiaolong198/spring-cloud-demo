@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0738a645-1779-4b94-a4d4-1be1d9b9a556" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-consumer-8082/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-consumer-8082/src/main/java/org/jms/eureka/demo/client/consumer/ConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-consumer-8082/src/main/java/org/jms/eureka/demo/client/consumer/ConsumerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-consumer-8082/src/main/java/org/jms/eureka/demo/client/consumer/rpac/foeign/ProducerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-consumer-8082/src/main/java/org/jms/eureka/demo/client/consumer/rpac/foeign/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-consumer-8082/src/main/java/org/jms/eureka/demo/client/consumer/rpac/restTemplate/RestTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-consumer-8082/src/main/java/org/jms/eureka/demo/client/consumer/rpac/restTemplate/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-consumer-8082/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-producer-8081/client-producer-8081.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-producer-8081/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-producer-8081/src/main/java/org/jms/eureka/demo/client/producer/ProducerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-producer-8081/src/main/java/org/jms/eureka/demo/client/producer/ProducerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client-producer-8081/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaserver-8761/eurekaserver-8761.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaserver-8761/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaserver-8761/src/main/java/org/jms/eureka/demo/server/ServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eurekaserver-8761/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jms-eureka-demo.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="package-info" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/dev/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1irQPq2YgkVOnYimyTzCJpm5on8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.ConsumerApplication">
+    <configuration name="ConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jms.eureka.demo.client.consumer.ConsumerApplication" />
+      <module name="client-consumer-8082" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jms.eureka.demo.client.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jms.eureka.demo.client.producer.ProducerApplication" />
+      <module name="client-producer-8081" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jms.eureka.demo.client.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.jms.eureka.demo.server.ServerApplication" />
+      <module name="eurekaserver-8761" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.jms.eureka.demo.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConsumerApplication" />
+        <item itemvalue="Application.ProducerApplication" />
+        <item itemvalue="Application.ServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0738a645-1779-4b94-a4d4-1be1d9b9a556" name="Default Changelist" comment="" />
+      <created>1602662274948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602662274948</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="256" key="#YAML" timestamp="1602663566437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="256" key="#YAML/0.0.1366.728@0.0.1366.728" timestamp="1602663566437" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602663497584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1602663497584" />
+    <state x="484" y="105" key="FileChooserDialogImpl" timestamp="1602664482982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602664482982" />
+    <state width="1367" height="232" key="GridCell.Tab.0.bottom" timestamp="1602672411872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602672411872" />
+    <state width="1367" height="232" key="GridCell.Tab.0.center" timestamp="1602672411872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602672411872" />
+    <state width="1367" height="232" key="GridCell.Tab.0.left" timestamp="1602672411872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602672411872" />
+    <state width="1367" height="232" key="GridCell.Tab.0.right" timestamp="1602672411872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602672411872" />
+    <state width="1367" height="232" key="GridCell.Tab.1.bottom" timestamp="1602672411872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602672411872" />
+    <state width="1367" height="232" key="GridCell.Tab.1.center" timestamp="1602672411872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602672411872" />
+    <state width="1367" height="232" key="GridCell.Tab.1.left" timestamp="1602672411872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602672411872" />
+    <state width="1367" height="232" key="GridCell.Tab.1.right" timestamp="1602672411872">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="232" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602672411872" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1602662637963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1602662637963" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1602664491879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602664491879" />
+    <state x="57" y="24" key="new project wizard" timestamp="1602662472628">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1602662472628" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602666115846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602666115846" />
+  </component>
+</project>
